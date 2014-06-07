@@ -1,6 +1,6 @@
 Pod::Spec.new do |s| 
   s.name='FastPdfKit@objectpartners' 
-  s.version='4.0.2' 
+  s.version='4.0.3' 
   s.summary="Version forked from FastPdfKit."
   s.homepage="https://github.com/mobfarm/FastPdfKit"
   s.license={:type=>'Creative Common License',:file=>'LICENSE.txt'}
